@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.header a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.header .logo {
+  max-height: 32px;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+.mat-toolbar a {
+  text-decoration: none;
+  color: #000;
+}
+
+.header-button {
+  text-decoration: none;
+}
+
+.header-button {
+  margin-right: 30px;
+}
+
+.mat-toolbar-row {
+  margin-right: 50px;
+}
